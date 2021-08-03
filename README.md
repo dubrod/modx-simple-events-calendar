@@ -1,4 +1,4 @@
-# modx-simple-events-calendar
+# MODX Simple Events Calendar
 Simple Steps to create an Events Calendar in MODX with dedicated Event Pages
 
 1. Create a Template called 'Event' so we can assign Template Variables to it.
