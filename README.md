@@ -28,3 +28,5 @@ Simple Steps to create an Events Calendar in MODX with dedicated Event Pages
 The snippet will return 2 buttons for Previous and Next Months, then a H2 heading for the Current month, then a calendar.
 
 > I recommend you set events to expire or delete them because the snippet will get ALL children, as is. 
+
+![screenshot.png](screenshot.png)
