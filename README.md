@@ -8,7 +8,7 @@ Simple Steps to create an Events Calendar in MODX with dedicated Event Pages
 5. Call the snippet `[[!Calendar]]` in that resource.
 6. Add 'Event' Children 
 
-#Some CSS for the Calendar
+## Some CSS for the Calendar
 
 ```
 <style>
